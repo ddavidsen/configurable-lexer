@@ -23,4 +23,5 @@ Four example input files are provided. You can run the lexer in one of two ways:
 ---
 
 ![Lexer in action](example.png)
+
 *Lexer tokenizing input using user-defined token definitions.*
