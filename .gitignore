@@ -1,0 +1,22 @@
+# Build Folders
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.suo
+*.user
+*.log
+*.tlog
+*.lastbuildstate
+
+# VS specific
+.vs/
